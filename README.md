@@ -9,7 +9,7 @@ I am a software engineer with experience in back end and front end, but i am con
 * 🌍  I'm based in Mexico 🌯 🇲🇽
 * ✉️  You can contact me at [alfonso\_h\_x@hotmail.com](mailto:alfonso_h_x@hotmail.com)
 * 🚀  I'm currently working on [Baufest](http://baufest.com/en/)
-* 🧠  I'm learning solving hard algorithms and software architeture
+* 🧠  I'm learning solving hard algorithms and software architecture
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  i am your friend :D
 
